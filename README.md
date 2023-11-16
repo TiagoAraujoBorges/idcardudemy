@@ -9,3 +9,5 @@
 > Foto de Peril
 
 > Pequeno texto sobre você 
+
+<h2>Utilizado HTML / CSS </h2>
